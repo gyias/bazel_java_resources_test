@@ -1,0 +1,9 @@
+local_repository(
+    name = "lib",
+    path = "../lib",
+)
+
+local_repository(
+    name = "resources",
+    path = "../resources",
+)
